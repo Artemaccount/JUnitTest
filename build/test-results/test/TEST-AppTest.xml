@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-05-31T09:47:26" hostname="LAPTOP-0D8KJK6N" time="0.208">
+  <properties/>
+  <testcase name="getUser_exception()" classname="AppTest" time="0.088"/>
+  <testcase name="validateUser_not_exception()" classname="AppTest" time="0.044"/>
+  <testcase name="getUser_not_exception()" classname="AppTest" time="0.021"/>
+  <testcase name="validateUser_exception()" classname="AppTest" time="0.025"/>
+  <system-out><![CDATA[Users[] array created!
+Р”РѕСЃС‚СѓРї РїСЂРµРґРѕСЃС‚Р°РІР»РµРЅ!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
