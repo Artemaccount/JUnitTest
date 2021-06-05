@@ -1,2 +1,4 @@
 AppTest.java
  AppTest
+AppTestHamcrest.java
+ AppTestHamcrest
